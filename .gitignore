@@ -1,5 +1,7 @@
-fastapienv/
+.DS_Store
+discardedFodlers/
 __pycache__/
+*.pyc
 *.db
+fastapienv/
 
-__pycache__/
